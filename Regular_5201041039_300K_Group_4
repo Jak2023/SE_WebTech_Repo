@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Group List</title>
+  </head>
+  <body>
+    <table width="100%" border="1">
+        <thead>
+            <tr>
+                <th colspan="4">Group List</th>
+            </tr>
+            <tr>
+                <th>Index Number</th>
+                <th>Full Name</th>
+                <th>Email</th>
+                <th>Telephone</th>
+            </tr>
+        </thead>
+            <tr>
+                <td>5201041039</td>
+                <td>Jacob Anafo Ayine</td>
+                <td>jacobayine3@gmail.com</td>
+                <td>0544667270</td>
+            </tr>
+        <tbody>
+            <tr>
+                <td></td>
+                <td></td>
+                <td></td>
+                <td></td>
+            </tr>
+        </tbody>
+    </table>
+  </body>
+</html>
